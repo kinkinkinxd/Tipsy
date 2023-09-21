@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:Tipsy.xcodeproj">
+      location = "self:/Users/kin/Development/ios/Tipsy-iOS13/Tipsy.xcodeproj">
    </FileRef>
 </Workspace>
